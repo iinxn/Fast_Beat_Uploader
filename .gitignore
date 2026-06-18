@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+/.venv
+/build
+/dist
+/output
+/presets.json
+/settings.json
+/client_secret.json
+/token.json
+/.env
+/ffmpeg/ffplay.exe

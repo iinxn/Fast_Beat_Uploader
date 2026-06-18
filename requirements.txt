@@ -1,0 +1,7 @@
+customtkinter
+tkinterdnd2
+google-api-python-client
+google-auth-oauthlib
+google-auth
+google-auth-httplib2
+httplib2
